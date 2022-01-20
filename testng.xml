@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Testing EPC">
+    <test name="Regression">
+        <classes>
+            <class name="com.epc.seleniumtestcases.ProductAttributeTest"/>
+            <class name="com.epc.seleniumtestcases.ProductAddTest"/>
+            <class name="com.epc.seleniumtestcases.ProductEditTest"/>
+            <class name="com.epc.seleniumtestcases.ProductCopyTest"/>
+            <class name="com.epc.seleniumtestcases.ProductSearchTest"/>
+            <class name="com.epc.seleniumtestcases.ProductApprovalTest"/>
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
