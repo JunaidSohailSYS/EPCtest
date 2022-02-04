@@ -32,9 +32,6 @@ public class ProductEditTest extends LoginTest{
         Thread.sleep(3000);
         editProductPage.clickSaveEditProduct();
 
-        //addProductPage.setClickTarrifTab();
-        //addProductPage.setSubmitProductDetail();
-
         String successMessage = editProductPage.getSuccessMessage();
         boolean expectedValue = successMessage.contains("Successfully Saved");
         Assert.assertEquals(expectedValue, true);

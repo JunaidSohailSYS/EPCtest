@@ -25,7 +25,7 @@ public class LoginTest extends WebDriverConfig {
         loginPage.setPassword("admin");
         loginPage.clickLoginButton();
         String actualUrl = driver.getCurrentUrl();
-        String expectedUrl = "http://10.100.95.20:8080/EPCWeb/#/Home";
+        String expectedUrl = "http://10.100.12.20:8180/EPCWeb/#/Home";
         Assert.assertEquals(actualUrl, expectedUrl);
     }
 
@@ -40,9 +40,9 @@ public class LoginTest extends WebDriverConfig {
 //        Assert.assertEquals(actualErrorMessage, expectedErrorMessage);
 //    }
 
-    @Test(dependsOnMethods = {"shouldLoginUserWhenCredentialsAreValid"})
-    public void LogOut() {
-        loginPage.clickSignOutButton();
-    }
+//    @Test(dependsOnMethods = {"shouldLoginUserWhenCredentialsAreValid"})
+//    public void LogOut() {
+//        loginPage.clickSignOutButton();
+//    }
 
 }

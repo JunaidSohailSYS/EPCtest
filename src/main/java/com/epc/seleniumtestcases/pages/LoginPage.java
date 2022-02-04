@@ -33,7 +33,7 @@ public class LoginPage {
     }
 
     public void loadPage() {
-        driver.get("http://10.100.95.20:8080/EPCWeb/#/Home");
+        driver.get("http://10.100.12.20:8180/EPCWeb/#/Home");
     }
 
     public void setUserName(String name) {

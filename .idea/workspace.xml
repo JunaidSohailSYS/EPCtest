@@ -5,21 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28eec3ac-e27c-42fb-b651-f4ca91742459" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/epc/seleniumtestcases/pages/AddProductPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epc/seleniumtestcases/pages/AddProductPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/epc/seleniumtestcases/pages/CopyProductPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epc/seleniumtestcases/pages/CopyProductPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/epc/seleniumtestcases/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epc/seleniumtestcases/pages/LoginPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/epc/seleniumTests/CreateProductTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epc/seleniumTests/CreateProductTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/epc/seleniumTests/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epc/seleniumTests/LoginTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/epc/seleniumtestcases/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epc/seleniumtestcases/LoginTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/epc/seleniumtestcases/ProductAddTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epc/seleniumtestcases/ProductAddTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/epc/seleniumtestcases/ProductAttributeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epc/seleniumtestcases/ProductAttributeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/epc/seleniumtestcases/ProductCopyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epc/seleniumtestcases/ProductCopyTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/epc/seleniumtestcases/ProductEditTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epc/seleniumtestcases/ProductEditTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/epc/seleniumwebdriverconfiguration/WebDriverConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epc/seleniumwebdriverconfiguration/WebDriverConfig.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

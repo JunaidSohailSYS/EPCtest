@@ -21,7 +21,7 @@ public class LoginTest {
 
     @Test
     public void loginPageTest() {
-        driver.get("http://10.100.95.20:8080/EPCWeb/#/Home");
+        driver.get("http://10.100.12.20:8180/EPCWeb/#/Home");
         WebElement username = driver.findElement(By.id("UserName"));
         WebElement password = driver.findElement(By.id("Password"));
         WebElement login = driver.findElement(By.xpath("//button[text()='Sign In']"));
@@ -29,7 +29,7 @@ public class LoginTest {
         username.sendKeys("admin");
         password.sendKeys("admin");
         login.click();
-        String actualUrl = "http://10.100.95.20:8080/EPCWeb/#/Home";
+        String actualUrl = "http://10.100.12.20:8180/EPCWeb/#/Home";
         String expectedUrl = driver.getCurrentUrl();
         Assert.assertEquals(expectedUrl,actualUrl);
     }
